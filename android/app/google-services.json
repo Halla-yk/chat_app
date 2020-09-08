@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1029543172950",
+    "firebase_url": "https://chat-app-34b25.firebaseio.com",
+    "project_id": "chat-app-34b25",
+    "storage_bucket": "chat-app-34b25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029543172950:android:bef66f35a684a35ddd54f7",
+        "android_client_info": {
+          "package_name": "com.halla.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029543172950-d092a4qtfigpn0dsultsb52fqc919vb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmUE-HWRzcnBTFPosQ53CUSzAWorfITwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029543172950-d092a4qtfigpn0dsultsb52fqc919vb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
